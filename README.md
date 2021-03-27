@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <h1>Hello, this is The Things' Website.</h1>
 <h5>This is website where The Things will publish his projects if he wants to share them, generally he does.
 
