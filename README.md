@@ -1,6 +1,6 @@
 <!DOCTYPE html>
-<html>
-    <body style="background-color:powderblue;"></body>
-    <h1>Hello!</h1>
-    </body>
-</html>
+<h1>Hello, this is The Things' Website.</h1>
+<h3>This is website where The Things will publish his projects if he wants to share them, generally he does.
+
+
+If you wish to visit this website please visit https://TheThings027.github.io/The-Things/Home.html</h3>
